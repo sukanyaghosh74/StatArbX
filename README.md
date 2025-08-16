@@ -63,7 +63,7 @@ If |Z-Score| ≥ Stop_Loss_Threshold:
 
 ```bash
 # Clone the repository
-git clone https://github.com/statarbx/statarbx.git
+git clone https://github.com/sukanyaghosh74/StatArbX.git
 cd StatArbX
 
 # Create virtual environment (recommended)
